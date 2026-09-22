@@ -25,10 +25,16 @@ Estou em busca de oportunidades para adquirir experiência, participar de projet
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=K1m29&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=K1m29&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" alt="Tecnologias mais usadas" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=K1m29&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=K1m29&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" alt="Tecnologias mais usadas" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
