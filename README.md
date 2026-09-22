@@ -26,8 +26,8 @@ Estou em busca de oportunidades para adquirir experiência, participar de projet
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=K1m29&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=K1m29&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=5&locale=pt-br" alt="Tecnologias mais usadas" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=K1m29&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=K1m29&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas&hide_progress=false" alt="Tecnologias mais usadas" />
 </p>
 
 <br/>
