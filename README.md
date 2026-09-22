@@ -26,8 +26,8 @@ Estou em busca de oportunidades para adquirir experiência, participar de projet
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=K1m29&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K1m29&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" alt="Tecnologias mais usadas" />
+  <img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=K1m29&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=K1m29&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" alt="Tecnologias mais usadas" />
 </p>
 
 <br/>
